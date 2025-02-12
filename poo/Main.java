@@ -1,4 +1,4 @@
-package poo.models;
+package poo;
 import java.util.Scanner;
 
 public class Main {

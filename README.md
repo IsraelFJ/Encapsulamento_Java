@@ -1,5 +1,5 @@
 # Encapsulamento Java.
-### -------------------
+### ------------------------------------------------
 
 ## Terceiro semestre do Curso de desevolvimento de sistemas, SENAI, campus Dendezeiros.
 ## Aulas de Fundamentos de BACKEND.

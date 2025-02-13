@@ -16,12 +16,14 @@ public class Main {
 
             Pessoa pessoa = new Pessoa("", "", 0);
             
-            System.out.println("Idade");
-            idade = scanner.nextInt();
-            System.out.println("E-mail");
-            email = scanner.nextLine();
             System.out.println("Nome");
             nome = scanner.nextLine();
+            System.out.println("E-mail");
+            email = scanner.nextLine();
+            System.out.println("Idade");
+            idade = scanner.nextInt();
+            
+            
 
             pessoa.setIdade(idade);
             pessoa.setEmail(email);
